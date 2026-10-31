@@ -1,0 +1,12 @@
+node_modules
+dist
+dev-dist
+public/tesseract
+public/tessdata
+eng.traineddata
+*.traineddata
+.DS_Store
+*.local
+playwright-report
+test-results
+.vite
